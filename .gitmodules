@@ -1,0 +1,3 @@
+[submodule "folder_1"]
+	path = folder_1
+	url = https://github.com/cmyster/folder_1.git
